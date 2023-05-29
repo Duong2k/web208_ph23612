@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "san pham a",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "san pham b",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "san pham c",
+      "price": 2400
+    },
+    {
+      "name": "sp 3",
+      "price": "122333",
+      "id": 4
+    },
+    {
+      "name": "sp d",
+      "price": "12345",
+      "id": 6
+    },
+    {
+      "name": "duongiii",
+      "price": "3435345",
+      "id": 8
+    },
+    {
+      "name": "duongne",
+      "price": "213124",
+      "id": 9
+    }
+  ]
+}
